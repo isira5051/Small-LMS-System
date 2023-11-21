@@ -1,0 +1,11 @@
+
+personal details,dave,hi there
+personal details,dave,hello
+sickness details,john ,red blood clots
+personal details,kevin,2012/12/12
+,,
+,,
+sickness details,dave,horrible pain in back
+,,
+,,
+prescription details,dave,amoxilin 120mg

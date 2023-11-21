@@ -1,0 +1,8 @@
+
+dave123,5db98f584e32f85bfde0a2b87854cf04,doctor,3
+sen1234,5db98f584e32f85bfde0a2b87854cf04,patient,1
+kunal1234,5db98f584e32f85bfde0a2b87854cf04,doctor,3
+nuran123,5db98f584e32f85bfde0a2b87854cf04,staff,2
+levin,5db98f584e32f85bfde0a2b87854cf04,staff,2
+jane123,5db98f584e32f85bfde0a2b87854cf04,admin,4
+ravindu,5db98f584e32f85bfde0a2b87854cf04,doctor,3
